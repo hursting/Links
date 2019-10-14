@@ -5,6 +5,7 @@ Kendo links and references collected over time including solutions to common pro
 ## Contents
 
 * [General](#general)
+* [Validation](#validation)
 * [Examples](#examples)
 
 
@@ -13,5 +14,6 @@ Kendo links and references collected over time including solutions to common pro
 
 
 ## General
-# Examples
+## Validation
+## Examples
 
