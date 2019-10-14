@@ -17,5 +17,5 @@ Kendo links and references collected over time including solutions to common pro
   * [Kendo.UI.Grid](https://docs.telerik.com/kendo-ui/api/javascript/ui/grid) - Official API reference Kendo grid using Jquery 
 ## Validation
 ## Examples
- * [Saleshub with Kendo.UI.Mvc] (https://demos.telerik.com/kendo-ui/saleshub#) - Example of a single grid using Kendo.UI.Mvc helpers. A link to code is on the page.  
+ * [Saleshub with Kendo.UI.Mvc](https://demos.telerik.com/kendo-ui/saleshub#) - Example of a single grid using Kendo.UI.Mvc helpers. A link to code is on the page.  
 
