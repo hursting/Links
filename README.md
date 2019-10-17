@@ -16,6 +16,7 @@ Kendo links and references collected over time including solutions to common pro
 
 ## General
   * [Kendo.UI.Grid](https://docs.telerik.com/kendo-ui/api/javascript/ui/grid) - Official API reference Kendo grid using Jquery 
+  * [Kendo.Ui.Grid](https://demos.telerik.com/kendo-ui/grid/index) - Official demo of kendo grid using jquery
 ## Validation
 ### ServerSide
 * [using customer errrorhandler ](https://www.telerik.com/blogs/handling-server-side-validation-errors-in-your-kendo-ui-grid#disqus_thread)
