@@ -9,7 +9,8 @@ Kendo links and references collected over time including solutions to common pro
   * [ServerSide](#serverside)
   * [Another](#another)
   * [Something](#something)
-* [Other](#other)
+* [Controls](#controls)
+  * [Official](#official)
 * [Examples](#examples)
 
 
@@ -25,7 +26,9 @@ Kendo links and references collected over time including solutions to common pro
 ### Something
 * [using customer errrorhandler ](https://www.telerik.com/blogs/handling-server-side-validation-errors-in-your-kendo-ui-grid#disqus_thread)
 
-## Other
+## Controls
+### Official
+* [MultiSelect](https://docs.telerik.com/kendo-ui/api/javascript/ui/multiselect) - API for Multiselect
 
 ## Examples
  * [Saleshub with Kendo.UI.Mvc](https://demos.telerik.com/kendo-ui/saleshub#) - Example of a single grid using Kendo.UI.Mvc helpers. A link to the code is on the page.
