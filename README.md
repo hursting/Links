@@ -1,5 +1,5 @@
 # Links and references
-Kendo links and references collected over time including solutions to common problems. Inspired by the wonderful examples like  
+links and references collected over time including solutions to common problems.  
 
  ## References ##
  * [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
