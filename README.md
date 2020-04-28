@@ -5,6 +5,7 @@ links and references collected over time including solutions to common problems.
  * [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
  * [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
  * [awesome-links](https://github.com/bayandin/awesome-awesomeness)
+ * [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
 
 ## Contents ##
