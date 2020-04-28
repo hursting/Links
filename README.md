@@ -4,7 +4,7 @@ Kendo links and references collected over time including solutions to common pro
 
 ## Contents
 
-* [General](#general)
+* [Kendo](#general)
 * [Validation](#validation)
   * [ServerSide](#serverside)  
 * [Controls](#controls)
