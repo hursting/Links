@@ -1,7 +1,7 @@
 # Links and references
 links and references collected over time including solutions to common problems.  
 
- ## References ##
+ ### References ###
  * [awesome-dotnet](https://github.com/quozd/awesome-dotnet)
  * [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)
  * [awesome-links](https://github.com/bayandin/awesome-awesomeness)
